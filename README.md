@@ -1,4 +1,4 @@
-# Bonsai Trees E-commerce Website
+# Bonsaic E-commerce Website
 This project involves the development of an e-commerce website dedicated to selling bonsai trees. The project focuses on creating a visually appealing and functional website using HTML, CSS, and JavaScript.
 
 ## Project Overview
